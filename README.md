@@ -9,3 +9,5 @@ Using HTTP GET,  HTTP POST,  HTTP PUT, HTTP DELETE, HTTP PATCH
 https://restfulapi.net/http-methods/
 
 https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html
+
+https://www.baeldung.com/aws-s3-java
