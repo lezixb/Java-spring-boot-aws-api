@@ -1,2 +1,3 @@
-# Java-spring-boot-aws-api
-Java Spring Boot Demo to expose AWS resources via API.
+# REST with Java-spring-boot and AWS JDK 
+Java Spring Boot Demo to perform HTTP RESTFUL operation on AWS S3 bucket.
+
