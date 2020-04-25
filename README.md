@@ -1,4 +1,4 @@
-# HTTP RESTFUL operation on Amazon S3 with Java SpringBoot 
+# HTTP RESTFUL operation on Amazon S3 with SpringBoot 
 In this project, We use Java Spring Boot to implement CRUD operations on Amazon S3 bucket resource.
 
 # REST APIs
