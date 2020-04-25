@@ -1,4 +1,4 @@
-# PERFORM HTTP RESTFUL operation on S3 using AWS SDK for Java 
+# HTTP RESTFUL operation on S3 with AWS SDK for Java 
 In this project, We use Java Spring Boot to build HTTP RESTFUL endpoint to create or access Amazon S3 resource
 
 # REST APIs
