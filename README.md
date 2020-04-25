@@ -4,11 +4,7 @@ In this project, we use the java spring boot framework to perform CRUD operation
 
 # REST APIs
 Enable you to develop any kind of web application having all possible CRUD (create, retrieve, update, delete) operations. 
-# HTTP GET
-# HTTP POST
-# HTTP PUT
-# HTTP DELETE
-# HTTP PATCH
+ i.e. HTTP GET,  HTTP POST,  HTTP PUT, HTTP DELETE, HTTP PATCH
 
 #References
 https://restfulapi.net/http-methods/
